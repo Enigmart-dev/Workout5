@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
 
 class SizeConfig {
+
+  static final int heightHD = 720;
+
   static double _screenWidth;
   static double _screenHeight;
   static double _blockSizeHorizontal = 0;
